@@ -1,0 +1,35 @@
+# Model weights: deliver separately after rights/hosting review.
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+# Training data and generated medical/user artifacts
+Dataset/
+datasets/
+Training/
+Testing/
+Images/
+Reports/
+Results/
+output/
+uploads/
+*.dcm
+*.nii
+*.nii.gz
+# Credentials, local environments and caches
+.env
+.env.*
+!.env.example
+**/secrets.toml
+*.pem
+*.key
+venv/
+venv_gpu/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/

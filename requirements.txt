@@ -1,0 +1,11 @@
+# Versions from the existing local venv; Linux build still needs verification.
+streamlit==1.60.0
+tensorflow==2.21.0
+keras==3.15.1
+numpy==2.4.6
+pandas==3.0.5
+altair==6.2.2
+Pillow==12.3.0
+opencv-python-headless==5.0.0.93
+reportlab==5.0.0
+h5py==3.14.0
