@@ -45,6 +45,6 @@ A local CPU smoke test passed classification, full XAI, U-Net, PDF generation an
 
 ## Sharing and rights
 
-No open-source license has been assigned. Rights to redistribute trained weights, upstream components and the MRI illustration embedded in the app must be confirmed before public release. Keep the repository private until that review is complete. The embedded image remains in the original source; excluding dataset folders does not remove it.
+No open-source license has been assigned. The project owner approved public sharing of this application source and its embedded MRI illustration. Model weights and datasets are not distributed here; any future redistribution requires a separate rights and license review. Public availability does not itself grant an open-source license.
 
 Uploaded images/results use application session memory and report buffers in the inspected runtime code. This is not a guarantee of immediate deletion or provider-side privacy. Use approved de-identified or synthetic demo inputs only.
